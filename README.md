@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[Resume] (https://dondevas.notion.site/Resume-ad96b548d92644a4bf1069e719b98670).
+
+
 <!--
 **easttuna/easttuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
