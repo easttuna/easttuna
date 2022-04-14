@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Resume](https://dondevas.notion.site/Resume-ad96b548d92644a4bf1069e719b98670).
+[Resume](https://easttuna.notion.site/Resume-ad96b548d92644a4bf1069e719b98670).
 
 
 <!--
